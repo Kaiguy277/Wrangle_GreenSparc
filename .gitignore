@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Other projects (not part of Wrangell/GreenSparc)
+cordova_*.png
+cordova_*.ipynb
+stranded_energy*.png
+stranded_energy*.ipynb
+explore_aedg.ipynb
+
+# Data files not needed for the app
+data/cordova_*
+data/eia923/
+data/eia923_*
+data/eia_api_*
+data/public_*
